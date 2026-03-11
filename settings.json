@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "coconut.fps.ms",
+    "ip": "coconut.fps.ms:11487",
     "port": 11487,
     "version": "",
     "try-creative": false
